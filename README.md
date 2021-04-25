@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bitweedx64
 - 👀 I’m interested in bits
-- 🌱 I’m currently blockchain stuff, frontend and rust 🦀️
+- 🌱 I’m currently working with blockchain stuff, frontend and rust 🦀️
 - 💞️ I’m looking to collaborate on cool stuff
 - 📫 You can't reach me. 🤚 I'm inreachable.
 
