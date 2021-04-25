@@ -2,7 +2,7 @@
 - 👀 I’m interested in bits
 - 🌱 I’m currently working with blockchain stuff, frontend and rust 🦀️
 - 💞️ I’m looking to collaborate on cool stuff
-- 📫 You can't reach me. 🤚 I'm inreachable.
+- 📫 You can't reach me. 🤚 I'm unreachable.
 - 🐶 Dogecoin hodler.
 
 <!---
