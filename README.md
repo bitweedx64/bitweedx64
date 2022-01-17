@@ -2,8 +2,8 @@
 - 👀 I’m interested in bits
 - 🌱 I’m currently working with blockchain stuff, frontend and rust 🦀️
 - 💞️ I’m looking to collaborate on cool stuff
-- 📫 You can't reach me. 🤚 I'm unreachable.
-- 🐶 Dogecoin hodler.
+- 📫 You can't reach me, 🤚 I'm unreachable
+- 🐶 Dogecoin hodler
 
 <!---
 bitweedx64/bitweedx64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
